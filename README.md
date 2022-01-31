@@ -1,14 +1,14 @@
 # Adolfo's portfolio
 
-** file screenshot 
+**file screenshot** 
 
-** Link to the deployed application
+**Link to the deployed application**
 
 ---
 
 ## Used html and Css to create
 
-** Work on Hmtl
+**Work on Html**
 
 - Created all the elements needed for the image, links and Text
 
@@ -21,4 +21,4 @@
 - Added classes and id's
 
 
-** Work on CSS
+**Work on CSS**
