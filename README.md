@@ -1,8 +1,11 @@
 # Adolfo's portfolio
 
+![Acceptance Criteria](assets\images\porfolio img 2.JPG)
+
 **file screenshot** 
 
 **Link to the deployed application**
+
 
 ---
 
@@ -22,3 +25,5 @@
 
 
 **Work on CSS**
+
+- used css to style page colors, texts and images.
