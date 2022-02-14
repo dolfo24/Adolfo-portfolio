@@ -1,6 +1,6 @@
 # Adolfo's portfolio
 
-![Acceptance Criteria](../portfolio/assets/images/readme.JPG)
+![Acceptance Criteria](\assets\images\readme.JPG)
 
 **file screenshot** 
 
